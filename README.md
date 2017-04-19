@@ -3,7 +3,7 @@
 ## Python Setup Quickstart
 
 ```
-brew install python
+brew install python3
 pip3 install virtualenv
 pip3 install virtualenvwrapper
 ```
